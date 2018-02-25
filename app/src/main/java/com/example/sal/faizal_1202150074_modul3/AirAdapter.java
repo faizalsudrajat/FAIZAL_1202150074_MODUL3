@@ -18,9 +18,9 @@ import java.util.List;
 
 public class AirAdapter extends RecyclerView.Adapter<AirAdapter.menuholder>{
 
-    public AirAdapter(MainActivity mainActivity, List<pilihAir> listmenu) {
-    }
-    CardView AIR;
+
+
+    CardView cd;
     private Context context;
     private List<pilihAir> listmenu;
 
